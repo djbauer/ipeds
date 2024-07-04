@@ -2,10 +2,19 @@
 % Please edit documentation in R/package.R
 \docType{package}
 \name{ipeds-package}
+\alias{ipeds}
 \alias{ipeds-package}
 \title{Integrated Postsecondary Education Data System}
 \description{
 Access to the Integrated Postsecondary Education Data System (IPEDS)
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jbryer/ipeds}
+  \item Report bugs at \url{https://github.com/jbryer/ipeds/issues}
+}
+
 }
 \author{
 \email{jason@bryer.org}
